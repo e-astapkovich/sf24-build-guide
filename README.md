@@ -23,7 +23,7 @@
 ## ССЫЛКИ ДЛЯ СКАЧИВАНИЯ
 
 ## [📦 Скачать спецификацию SF24 в формате .xlsx](docs/specification/SF24_Specification_BOM___.xlsx)
-## [Скачать модели колесных дисков для силиконовых шин](assets/models/models_of_disks_for_silicone_tires.zip)
+## [🛞 Скачать модели колесных дисков для силиконовых шин](assets/models/models_of_disks_for_silicone_tires.zip)
 
 ## Уточнение про аккумулятор
 В исходном проекте SF24 предполагается использование аккумулятора 1s формата 18500.<br>

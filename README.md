@@ -3,7 +3,7 @@
 
 Автор: Евгений Астапкович
 
-![SF24](assets/photo/01 - my.jpg)
+![SF24](assets/photo/main.jpg)
 
 ## О ПРОЕКТЕ
 

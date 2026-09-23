@@ -20,7 +20,7 @@
 Автор этой спецификации не является разработчиком SF24.
 Его вклад — актуализация комплектующих, поиск доступных вариантов и подготовка данной спецификации.
 
+## [📦 Скачать спецификацию SF24 в формате .xlsx](docs/specification/SF24_Specification_BOM___.xlsx)
 
-
-Исходный проект: Insane RC / SF24
-https://insane-rc.ru/product-category/insane/sf24/
+*Исходный проект: Insane RC / SF24
+https://insane-rc.ru/product-category/insane/sf24/*

@@ -27,7 +27,7 @@
 ## ССЫЛКИ ДЛЯ СКАЧИВАНИЯ
 
 ## [📦 Скачать спецификацию SF24 в формате .xlsx](docs/specification/SF24_Specification_BOM___.xlsx)
-## [🛞 Скачать модели колесных дисков для силиконовых шин](assets/models/models_of_disks_for_silicone_tires.zip)
+## [🛞 Скачать STL-модели колесных дисков для силиконовых шин](assets/models/models_of_disks_for_silicone_tires.zip)
 
 ## ИНСТРУКЦИЯ ПО СБОРКЕ
 ## [Скачать инструкцию по сборке (PDF-файл)](docs/INSTRUCTION_SF24_Final_V3.pdf)

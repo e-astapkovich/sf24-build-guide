@@ -33,7 +33,7 @@
 ## [Скачать инструкцию по сборке (PDF-файл)](docs/INSTRUCTION_SF24_Final_V3.pdf)
 
 ## ВИДЕОИНСТРУКЦИЯ
-https://rutube.ru/video/feb05db9436182b2d9cb688076ad8728/
+<a href="https://rutube.ru/video/feb05db9436182b2d9cb688076ad8728/">https://rutube.ru/video/feb05db9436182b2d9cb688076ad8728/<a/>
 
 ## УТОЧНЕНИЕ ПРО АККУМУЛЯТОР
 В исходном проекте SF24 предполагается использование аккумулятора 1s формата 18500.<br>
@@ -52,15 +52,19 @@ SF24, его конструкция и соответствующие модел
 Ссылки, цены и наличие товара могут со временем меняться.
 
 ## GitHub проекта:
-https://github.com/e-astapkovich/sf24-build-guide
+<a href="https://github.com/e-astapkovich/sf24-build-guide">
+    https://github.com/e-astapkovich/sf24-build-guide
+</a>
+
 
 ## Контакты автора спецификации
-VK: https://vk.ru/e.astapkovich<br>
-Telegram: https://t.me/e_astapkovich
+VK: <a href="https://vk.ru/e.astapkovich">https://vk.ru/e.astapkovich</a>
+<br>
+Telegram: <a href="https://t.me/e_astapkovich">https://t.me/e_astapkovich</a>
 
 ## Другие RC-проекты автора
 ⏳ Coming soon...
 
 ## Ссылка на исходный проект
 Insane RC / SF24<br>
-https://insane-rc.ru/product-category/insane/sf24/*
+<a href="https://insane-rc.ru/product/sf24-kit/">https://insane-rc.ru/product/sf24-kit/</a>
